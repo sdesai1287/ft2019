@@ -1,0 +1,105 @@
+org/firstinspires/ftc/teamcode/subsystems/CV/skystoneDetector.java
+ org.firstinspires.ftc.teamcode.subsystems.CV.skystoneDetector
+ org.firstinspires.ftc.teamcode.subsystems.CV.skystoneDetector$StageSwitchingPipeline
+org/firstinspires/ftc/teamcode/subsystems/intake/intake.java
+ org.firstinspires.ftc.teamcode.subsystems.intake.intake
+org/firstinspires/ftc/teamcode/odometry/purePursuit/src/com/company/UdpServer.java
+ org.firstinspires.ftc.teamcode.odometry.purePursuit.src.com.company.UdpServer
+org/firstinspires/ftc/teamcode/subsystems/chassis/skystoneChassis.java
+ org.firstinspires.ftc.teamcode.subsystems.chassis.skystoneChassis
+org/firstinspires/ftc/teamcode/test_programs/motorTest.java
+ org.firstinspires.ftc.teamcode.test_programs.motorTest
+org/firstinspires/ftc/teamcode/auto/Red/autoRedIntake.java
+ org.firstinspires.ftc.teamcode.auto.Red.autoRedIntake
+org/firstinspires/ftc/teamcode/odometry/purePursuit/src/com/company/Robot.java
+ org.firstinspires.ftc.teamcode.odometry.purePursuit.src.com.company.Robot
+org/firstinspires/ftc/teamcode/test_programs/autoRedDrift.java
+ org.firstinspires.ftc.teamcode.test_programs.autoRedDrift
+org/firstinspires/ftc/teamcode/odometry/purePursuit/src/treamcode/RobotMovement.java
+ org.firstinspires.ftc.teamcode.odometry.purePursuit.src.treamcode.RobotMovement
+org/firstinspires/ftc/teamcode/odometry/purePursuit/src/treamcode/MyOpMode.java
+ org.firstinspires.ftc.teamcode.odometry.purePursuit.src.treamcode.MyOpMode
+org/firstinspires/ftc/teamcode/subsystems/slides/slides.java
+ org.firstinspires.ftc.teamcode.subsystems.slides.slides
+org/firstinspires/ftc/teamcode/subsystems/imu/BoschIMU.java
+ org.firstinspires.ftc.teamcode.subsystems.imu.BoschIMU
+org/firstinspires/ftc/teamcode/test_programs/SensorREV2mDistance.java
+ org.firstinspires.ftc.teamcode.test_programs.SensorREV2mDistance
+org/firstinspires/ftc/teamcode/odometry/purePursuit/src/com/company/Range.java
+ org.firstinspires.ftc.teamcode.odometry.purePursuit.src.com.company.Range
+org/firstinspires/ftc/teamcode/odometry/GlobalCoordinatePositionUpdateSample.java
+ org.firstinspires.ftc.teamcode.odometry.GlobalCoordinatePositionUpdateSample
+org/firstinspires/ftc/teamcode/odometry/purePursuit/src/treamcode/CurvePoint.java
+ org.firstinspires.ftc.teamcode.odometry.purePursuit.src.treamcode.CurvePoint
+org/firstinspires/ftc/teamcode/test_programs/testbotTele.java
+ org.firstinspires.ftc.teamcode.test_programs.testbotTele
+org/firstinspires/ftc/teamcode/test_programs/pidTest.java
+ org.firstinspires.ftc.teamcode.test_programs.pidTest
+org/firstinspires/ftc/teamcode/test_programs/flipTest.java
+ org.firstinspires.ftc.teamcode.test_programs.flipTest
+org/firstinspires/ftc/teamcode/odometry/purePursuit/src/org/opencv/core/Point.java
+ org.firstinspires.ftc.teamcode.odometry.purePursuit.src.org.opencv.core.Point
+org/firstinspires/ftc/teamcode/odometry/purePursuit/src/treamcode/MathFunctions.java
+ org.firstinspires.ftc.teamcode.odometry.purePursuit.src.treamcode.MathFunctions
+org/firstinspires/ftc/teamcode/subsystems/distanceSensor/distanceSensor.java
+ org.firstinspires.ftc.teamcode.subsystems.distanceSensor.distanceSensor
+org/firstinspires/ftc/teamcode/odometry/purePursuit/src/Main/Main.java
+ org.firstinspires.ftc.teamcode.odometry.purePursuit.src.Main.Main
+org/firstinspires/ftc/teamcode/test_programs/myOdometryMethodTest.java
+ org.firstinspires.ftc.teamcode.test_programs.myOdometryMethodTest
+org/firstinspires/ftc/teamcode/subsystems/arm/Arm.java
+ org.firstinspires.ftc.teamcode.subsystems.arm.Arm
+org/firstinspires/ftc/teamcode/test_programs/imuTest.java
+ org.firstinspires.ftc.teamcode.test_programs.imuTest
+org/firstinspires/ftc/teamcode/odometry/purePursuit/src/com/company/ComputerDebugging.java
+ org.firstinspires.ftc.teamcode.odometry.purePursuit.src.com.company.ComputerDebugging
+org/firstinspires/ftc/teamcode/tele/teleOp.java
+ org.firstinspires.ftc.teamcode.tele.teleOp
+org/firstinspires/ftc/teamcode/odometry/OdometryGlobalCoordinatePosition.java
+ org.firstinspires.ftc.teamcode.odometry.OdometryGlobalCoordinatePosition
+org/firstinspires/ftc/teamcode/test_programs/systemsTest.java
+ org.firstinspires.ftc.teamcode.test_programs.systemsTest
+org/firstinspires/ftc/teamcode/odometry/purePursuit/src/treamcode/OpMode.java
+ org.firstinspires.ftc.teamcode.odometry.purePursuit.src.treamcode.OpMode
+org/firstinspires/ftc/teamcode/odometry/purePursuit/src/com/company/FloatPoint.java
+ org.firstinspires.ftc.teamcode.odometry.purePursuit.src.com.company.FloatPoint
+org/firstinspires/ftc/teamcode/auto/Blue/autoBlueIntake.java
+ org.firstinspires.ftc.teamcode.auto.Blue.autoBlueIntake
+org/firstinspires/ftc/teamcode/odometry/odometryCalibration.java
+ org.firstinspires.ftc.teamcode.odometry.odometryCalibration
+org/firstinspires/ftc/teamcode/subsystems/stacker/stacker.java
+ org.firstinspires.ftc.teamcode.subsystems.stacker.stacker
+org/firstinspires/ftc/teamcode/subsystems/imu/IIMU.java
+ org.firstinspires.ftc.teamcode.subsystems.imu.IIMU
+org/firstinspires/ftc/teamcode/subsystems/platform/platformArms.java
+ org.firstinspires.ftc.teamcode.subsystems.platform.platformArms
+org/firstinspires/ftc/teamcode/subsystems/distanceSensor/Distance.java
+ org.firstinspires.ftc.teamcode.subsystems.distanceSensor.Distance
+org/firstinspires/ftc/teamcode/test_programs/dataLogging.java
+ org.firstinspires.ftc.teamcode.test_programs.dataLogging
+org/firstinspires/ftc/teamcode/subsystems/arm/leftArm.java
+ org.firstinspires.ftc.teamcode.subsystems.arm.leftArm
+org/firstinspires/ftc/teamcode/subsystems/intake/IntakeWheels.java
+ org.firstinspires.ftc.teamcode.subsystems.intake.IntakeWheels
+org/firstinspires/ftc/teamcode/subsystems/platform/Platform.java
+ org.firstinspires.ftc.teamcode.subsystems.platform.Platform
+org/firstinspires/ftc/teamcode/subsystems/slides/LinearSlides.java
+ org.firstinspires.ftc.teamcode.subsystems.slides.LinearSlides
+org/firstinspires/ftc/teamcode/odometry/purePursuit/src/RobotUtilities/SpeedOmeter.java
+ org.firstinspires.ftc.teamcode.odometry.purePursuit.src.RobotUtilities.SpeedOmeter
+org/firstinspires/ftc/teamcode/odometry/purePursuit/src/RobotUtilities/MovementVars.java
+ org.firstinspires.ftc.teamcode.odometry.purePursuit.src.RobotUtilities.MovementVars
+org/firstinspires/ftc/teamcode/test_programs/wiresTest.java
+ org.firstinspires.ftc.teamcode.test_programs.wiresTest
+org/firstinspires/ftc/teamcode/subsystems/chassis/DriveTrain.java
+ org.firstinspires.ftc.teamcode.subsystems.chassis.DriveTrain
+org/firstinspires/ftc/teamcode/BuildConfig.java
+ org.firstinspires.ftc.teamcode.BuildConfig
+org/firstinspires/ftc/teamcode/test_programs/SensorREVColorDistance.java
+ org.firstinspires.ftc.teamcode.test_programs.SensorREVColorDistance
+org/firstinspires/ftc/teamcode/subsystems/arm/rightArm.java
+ org.firstinspires.ftc.teamcode.subsystems.arm.rightArm
+org/firstinspires/ftc/teamcode/subsystems/CV/CV.java
+ org.firstinspires.ftc.teamcode.subsystems.CV.CV
+ org.firstinspires.ftc.teamcode.subsystems.CV.CV$location
+ org.firstinspires.ftc.teamcode.subsystems.CV.CV$stone

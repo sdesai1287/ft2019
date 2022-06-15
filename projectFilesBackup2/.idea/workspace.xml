@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d20621e8-b839-4ec1-befe-cf1e7cfaa4f4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ftc2019" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>partial</find>
+      <find>saber</find>
+      <find>back</find>
+      <find>spool</find>
+      <find>goToIMU</find>
+      <find>LF</find>
+      <find>gamepad2.x</find>
+      <find>gamepad2.y</find>
+      <find>gamepad2.a</find>
+      <find>gamepad2</find>
+      <find>bV</find>
+      <find>val</find>
+      <find>bVal</find>
+      <find>dpad_up</find>
+      <find>cameraMonitor</find>
+      <find>preview</find>
+      <find>while</find>
+      <find>int</find>
+      <find>MAX</find>
+      <find>RIGHT</find>
+      <find>gamepad1.</find>
+      <find>detector</find>
+      <find>.stop</find>
+      <find>gamepad1.x</find>
+      <find>intake</find>
+      <find>PID</find>
+      <find>SLOW</find>
+      <find>0.15</find>
+      <find>intakeOn</find>
+      <find>goT</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1VXGoK23mcxzzXDyyOVzLvC0NuC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="ZX1D52RQC8" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2019-12-26T20:52:14.883Z" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580867009592" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Dependencies" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="MODULE_TAB" value="Properties" />
+    <option name="LAST_EDITED_SIGNING_CONFIG" value="debug" />
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.firstinspires.ftc.teamcode.tutorialseries.src.Main" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.firstinspires.ftc.teamcode" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/odometry" />
+      <recent name="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/subsystems/odometry" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.firstinspires.ftc.teamcode.auto.Blue" />
+      <recent name="org.firstinspires.ftc.teamcode.auto.Red" />
+      <recent name="org.firstinspires.ftc.teamcode.odometry" />
+      <recent name="org.firstinspires.ftc.teamcode.test_programs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode" />
+      <recent name="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/tele" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TeamCode" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="TeamCode" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="org.firstinspires.ftc.robotcontroller.internal.FtcRobotControllerActivity" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+        <option name="MakeProject" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="TeamCode" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d20621e8-b839-4ec1-befe-cf1e7cfaa4f4" name="Default Changelist" comment="" />
+      <created>1577392199664</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577392199664</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/tutorialseries" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="449" y="179" key="#TeamCode" timestamp="1582311334404">
+      <screen x="0" y="22" width="1440" height="878" />
+    </state>
+    <state x="449" y="179" key="#TeamCode/0.22.1440.878@0.22.1440.878" timestamp="1582311334404" />
+    <state x="184" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582311594621">
+      <screen x="0" y="22" width="1440" height="878" />
+    </state>
+    <state x="184" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.22.1440.878@0.22.1440.878" timestamp="1582311594621" />
+    <state width="679" height="175" key="GridCell.Tab.0.bottom" timestamp="1582311613226">
+      <screen x="0" y="22" width="1440" height="878" />
+    </state>
+    <state width="679" height="175" key="GridCell.Tab.0.bottom/0.22.1440.878@0.22.1440.878" timestamp="1582311613226" />
+    <state width="679" height="175" key="GridCell.Tab.0.center" timestamp="1582311613223">
+      <screen x="0" y="22" width="1440" height="878" />
+    </state>
+    <state width="679" height="175" key="GridCell.Tab.0.center/0.22.1440.878@0.22.1440.878" timestamp="1582311613223" />
+    <state width="679" height="175" key="GridCell.Tab.0.left" timestamp="1582311613223">
+      <screen x="0" y="22" width="1440" height="878" />
+    </state>
+    <state width="679" height="175" key="GridCell.Tab.0.left/0.22.1440.878@0.22.1440.878" timestamp="1582311613223" />
+    <state width="679" height="175" key="GridCell.Tab.0.right" timestamp="1582311613224">
+      <screen x="0" y="22" width="1440" height="878" />
+    </state>
+    <state width="679" height="175" key="GridCell.Tab.0.right/0.22.1440.878@0.22.1440.878" timestamp="1582311613224" />
+    <state x="249" y="109" key="SettingsEditor" timestamp="1582311471899">
+      <screen x="0" y="22" width="1440" height="878" />
+    </state>
+    <state x="249" y="109" key="SettingsEditor/0.22.1440.878@0.22.1440.878" timestamp="1582311471899" />
+    <state x="419" y="302" key="com.intellij.ide.util.TipDialog" timestamp="1582311297027">
+      <screen x="0" y="22" width="1440" height="878" />
+    </state>
+    <state x="419" y="302" key="com.intellij.ide.util.TipDialog/0.22.1440.878@0.22.1440.878" timestamp="1582311297027" />
+  </component>
+</project>
